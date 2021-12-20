@@ -1,13 +1,9 @@
-# surfs_up
-
-
 # Overview of the statistical analysis:
-Tom, an employee of the Colorado Board of Elections, and I developed python code to audit their recent election's tabulated results. We were tasked with reporting the total number of votes, votes per candidate, percentage of votes per candidate, as well as the winner of the election based on the popular vote. The benefit of using python to verfiy the results is that it could be automated and hopefully used in other cogressional or senatorial districts. 
-
+I'm planning launch a Surf n' Shake shop in Hawaii. To get initial capital to start the business, I seek an investor who earlier invested in a similar business. He mentioned it failed due to not factoring weather in the city he stationed his shop. Therefore, he advises me to use my analytical skills to better understand the weather patterns in Oahu and how they might impact my business. Using SQL Lite and Python, I analyse weather data from a local weather dataset. 
 
 # Results:
 
-The audited results of the election were as follows; 
+The results for the ; 
 
 ![This is an image]()
 
