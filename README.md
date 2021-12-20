@@ -3,17 +3,21 @@ I'm planning launch a Surf n' Shake shop in Hawaii. To get initial capital to st
 
 # Results:
 
-The results for the ; 
+Below are the results for temperatures in the month of June; 
 
 ![This is an image]()
 
-1. There were a total of 369,711 votes cast.  
 
-* Jefferson: 10.5% - 38,000
+Below are the results for temperatures in the month of Decemeber; 
+
+![This is an image]()
 
 
-3. Denver had the largest number of votes 
+* Jeff
+* Jeff
+* Jeff
 
-* Charles Casper Stockham: 23.0% with 85,213 votes
+
+
 
 # Summary:
