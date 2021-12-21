@@ -3,21 +3,19 @@ I'm planning launch a Surf n' Shake shop in Hawaii. To get initial capital to st
 
 # Results:
 
-Below are the results for temperatures in the month of June; 
+* The average temperature in June was approximately 75 degress while it was 71 degrees in December.
+* The minimum temperature in June was approximately 64 degress while it was 56 degrees in December.
+* The maximum temperature in June was approximately 85 degress while it was 83 degrees in December.
+
+Below are more statistical details for temperatures in the month of June and December ; 
 
 ![This is an image](https://github.com/jackfrost68/surfs_up/blob/8d09dc532d888d514c51af4ec188ff31b8b0dd0d/June.png)
 
 
-Below are the results for temperatures in the month of Decemeber; 
+
 
 ![This is an image](https://github.com/jackfrost68/surfs_up/blob/8d09dc532d888d514c51af4ec188ff31b8b0dd0d/Dec.png)
 
 
-* Jeff
-* Jeff
-* Jeff
-
-
-
-
 # Summary:
+Based on these results, one can deduce that ice-cream sales in June are likely to superceed those in Decemeber due to warmer temperatures, and thus can stock up more inventory in advance. 
